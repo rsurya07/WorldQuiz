@@ -1,0 +1,84 @@
+{
+  "numOfQs": 10,
+  "title": "Science Quiz",
+  "quizitems": [{
+    "questiontext":"NaCl is the chemical formula of:",
+    "answertext":"Sodium chloride",
+    "choices":["Sodium chloride",    
+     "Nitrous chloride",
+     "Ammonia",
+     "Nano Calcium"]
+  },
+  {
+    "questiontext":"Bronze is an alloy consisting of two or more metals. What are they?",
+    "answertext":"Copper and tin",
+    "choices":["Copper and zinc",    
+     "Copper and tin",
+     "Copper and gold",
+     "Copper and lead"]
+  },
+  {
+    "questiontext":"Mycology is the study of:",
+    "answertext":"Fungi",
+    "choices":["Insects",    
+     "Water bodies",
+     "Fungi",
+     "Volcanos"]
+  },
+  {
+    "questiontext":"What is the first element on the periodic table?",
+    "answertext":"Hydrogen",
+    "choices":["Sodium",    
+     "Oxygen",
+     "Hydrogen",
+     "Helium"]
+  },
+  {
+    "questiontext":"A galvanised metal has been covered with:",
+    "answertext":"Zinc",
+    "choices":["Zinc",    
+     "Iron",
+     "Oil",
+     "Calcium"]
+  },
+  {
+    "questiontext":"What type of electrical charge does a neutron have?",
+    "answertext":"No charge",
+    "choices":["Negative",    
+     "Positive",
+     "No charge",
+     "Double negative"]
+  },
+  {
+    "questiontext":"What is the speed of light?",
+    "answertext":"299,792,458 metres per second",
+    "choices":["299,792,458 metres per second",    
+     "967,268,439 kilometres per second",
+     "3.14159265359 metres per second",
+     "3,598,689,696,123 kilometres per second"]
+  },
+  {
+    "questiontext":"The male part of a flower is:",
+    "answertext":"Stamen",
+    "choices":["Stigma",    
+     "Pistil",
+     "Stamen",
+     "Petal"]
+  },
+  {
+    "questiontext":"Air is mostly made up of:",
+    "answertext":"Nitrogen",
+    "choices":["Oxygen",    
+     "Carbon dioxide",
+     "Argon",
+     "Nitrogen"]
+  },
+  {
+    "questiontext":"Which of these is a type of bacteria:",
+    "answertext":"Bacillus",
+    "choices":["Bacillus",    
+     "Argilite",
+     "Eridanus",
+     "Annona"]
+  }]   
+}

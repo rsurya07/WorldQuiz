@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CheatActivity"
+    android:background="#ff7777">
+
+    <TextView
+        android:id="@+id/cheatText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="200dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="#7700ff"
+        android:textSize="20dp"
+        android:typeface="serif" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/yesButton"
+        android:layout_centerInParent="true"
+        android:text="@string/yes"
+        android:layout_below="@id/cheatText"
+        android:layout_marginTop="80dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/noButton"
+        android:layout_centerInParent="true"
+        android:text="@string/no"
+        android:layout_below="@id/yesButton"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/cheatAnswerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/noButton"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:fontFamily="sans-serif-medium"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="#002233"
+        android:textSize="30dp"
+        android:typeface="serif" />
+
+</RelativeLayout>

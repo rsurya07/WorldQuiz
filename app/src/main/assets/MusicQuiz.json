@@ -1,0 +1,84 @@
+{
+  "numOfQs": 10,
+  "title": "Music Quiz",
+  "quizitems": [{
+    "questiontext":"\"They got married early, never had no money\" is the first line of which classic Australian song?",
+    "answertext":"'To Her Door' by Paul Kelly and the Coloured Girls",
+    "choices":["'To Her Door' by Paul Kelly and the Coloured Girls",    
+     "'Beds are Burning' by Midnight Oil",
+     "'Listen Like Thieves' by INXS",
+     "'Khe Sahn' by Cold Chisel"]
+  },
+  {
+    "questiontext":"Complete this lyric from the song by The Animals. \"There is a house in New Orleans, they call the….\"",
+    "answertext":"Rising sun",
+    "choices":["Red house",    
+     "Rising sun",
+     "House on the moon",
+     "Cool house"]
+  },
+  {
+    "questiontext":"Aretha Franklin’s 1967 hit song ‘Respect’ was written, and originally performed, by",
+    "answertext":"Otis Redding",
+    "choices":["Simon and Garfunkel",    
+     "Diana Ross",
+     "Marvin Gaye",
+     "Otis Redding"]
+  },
+  {
+    "questiontext":"The 2010 album by Scottish band Belle and Sebastian is called",
+    "answertext":"Write About Love",
+    "choices":["Tigermilk",    
+     "Dear Catastrophe Waitress",
+     "Write About Love",
+     "If You’re Feeling Sinister"]
+  },
+  {
+    "questiontext":"Complete this lyric from Michael Jackson’s ‘Thriller’. \"It’s close to midnight, and something evil’s lurking in the….\"",
+    "answertext":"Dark",
+    "choices":["Wind",    
+     "Air",
+     "Dark",
+     "Trees"]
+  },
+  {
+    "questiontext":"In the Flaming Lips song \"She don't use jelly\", what does the girl use to make her hair \"real orange\"",
+    "answertext":"Tangerines",
+    "choices":["Tangerines",    
+     "Saffron",
+     "Something you buy at the store",
+     "Food colouring"]
+  },
+  {
+    "questiontext":"From which You am I song is the following line? \"I’m like a waterlogged ball, that no one wants to kick around anymore\"",
+    "answertext":"Heavy Heart",
+    "choices":["Purple Sneakers",    
+     "Berlin Chair",
+     "Heavy Heart",
+     "Mr Milk"]
+  },
+  {
+    "questiontext":"The 1980’s hit song \"Take on Me\" was performed by",
+    "answertext":"A-ha",
+    "choices":["Wham!",    
+     "A-ha",
+     "Duran Duran",
+     "Flock of Seagulls"]
+  },
+  {
+    "questiontext":"Prior to becoming an opera singer, Luciano Pavarotti worked as a",
+    "answertext":"School teacher",
+    "choices":["School teacher",    
+     "Plumber",
+     "Chef",
+     "Gardener"]
+  },
+  {
+    "questiontext":"“\"Wide Open Road\" is a classic Australian song originally performed by which band?",
+    "answertext":"The Triffids",
+    "choices":["The Church",    
+     "Hunters and Collectors",
+     "Icehouse",
+     "The Triffids"]
+  }]   
+}

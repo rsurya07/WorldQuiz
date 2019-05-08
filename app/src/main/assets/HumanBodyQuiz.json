@@ -1,0 +1,84 @@
+{
+  "numOfQs": 10,
+  "title": "Human Body Quiz",
+  "quizitems": [{
+    "questiontext":"Where in the body is the scapular muscle?",
+    "answertext":"Shoulder",
+    "choices":["Knee",    
+     "Shoulder",
+     "Head",
+     "Arm"]
+  },
+  {
+    "questiontext":"What is the name of the only bone in the body not connected to another?",
+    "answertext":"Hyoid",
+    "choices":["Axis",    
+     "Ulna",
+     "Femur",
+     "Hyoid"]
+  },
+  {
+    "questiontext":"According to the Red Cross what is the most common Blood Type?",
+    "answertext":"Blood Type O",
+    "choices":["Blood Type A",    
+     "Blood Type O",
+     "Blood Type B",
+     "Blood type AB"]
+  },
+  {
+    "questiontext":"What is the smallest bone in the human body?",
+    "answertext":"Stapes",
+    "choices":["Stapes",    
+     "Pinna",
+     "Clavicle",
+     "Fibula"]
+  },
+  {
+    "questiontext":"How much does an average human heart weigh?",
+    "answertext":"Approx. 250gm-300grams - female & 300-350 grams-male",
+    "choices":["Approx. 250gm-300grams - female & 300-350 grams-male",    
+     "Approx. 350-450grams female and 500-600gram male",
+     "Approx. 100-150grams female and 200-250grams male",
+     "Approx. 600-700gram female and 800-900grams male"]
+  },
+  {
+    "questiontext":"Where in the body is the thyroid gland found?",
+    "answertext":"Neck",
+    "choices":["Stomach",    
+     "Underarm",
+     "Neck",
+     "Head"]
+  },
+  {
+    "questiontext":"What is the knee-jerk reflex called?",
+    "answertext":"Patella Reflex",
+    "choices":["Patella Reflex",    
+     "Humerus Reflex",
+     "Coccyx Reflex",
+     "Illium Reflex"]
+  },
+  {
+    "questiontext":"True or False – Can the body generate new brain cells?",
+    "answertext":"Yes",
+    "choices":["Yes",    
+     "No",
+     "Sometimes",
+     "In some people"]
+  },
+  {
+    "questiontext":"What Body system do the Skin, hair and nails belong to?",
+    "answertext":"Integumentary System",
+    "choices":["Circulatory System",    
+     "Skeletal System",
+     "Integumentary System",
+     "Digestive System"]
+  },
+  {
+    "questiontext":"What Body Part changes the least throughout a person’s life?",
+    "answertext":"Eyes",
+    "choices":["Ears",    
+     "Nose",
+     "Eyes",
+     "Tongue"]
+  }]   
+}

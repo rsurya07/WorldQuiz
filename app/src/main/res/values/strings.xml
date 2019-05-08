@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WorldQuiz</string>
+
+    <string name="welcometext">Hello there!</string>
+    <string name="chooseQuizText"> Choose your adventure below: </string>
+    <string name="cheatText">Go Rogue!!</string>
+    <string name="submitAnswer"> Submit </string>
+    <string name="nextQs">Next \> </string>
+    <string name="yes"> Yes </string>
+    <string name="no"> No </string>
+    <string-array name="quizes">
+        <item>Quests...</item>
+        <item>Sports</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Human Body</item>
+        <item>Music</item>
+        <item>Science</item>
+        <item>General Knowledge</item>
+    </string-array>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>

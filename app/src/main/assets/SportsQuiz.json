@@ -1,0 +1,84 @@
+{
+  "numOfQs": 10,
+  "title": "Sports Quiz",
+  "quizitems": [{
+    "questiontext":"Which Australian was selected by the Milwaukee Bucks with the first overall pick in the 2005 National Basketball Association (NBA) Draft?",
+    "answertext":"Andrew Bogut",
+    "choices":["Mark Bradtke",    
+     "Andrew Bogut",
+     "Patrick Mills",
+     "Luke Schenscher"]
+  },
+  {
+    "questiontext":"With 15,921 runs, which international cricketer holds the record for the most Test runs?",
+    "answertext":"Sachin Tendulkar",
+    "choices":["Sachin Tendulkar",    
+     "Ricky Ponting",
+     "Brian Lara",
+     "Viv Richards"]
+  },
+  {
+    "questiontext":"How many players have won 3 Brownlow medal awards, the highest individual honour in Australian Rules football?",
+    "answertext":"4",
+    "choices":["1",    
+     "2",
+     "3",
+     "4"]
+  },
+  {
+    "questiontext":"At 9.58 seconds, Usain Bolt holds the record for the fastest time in the 100 metre sprint, but which sprinter holds the female record with 10.49 seconds?",
+    "answertext":"Florence Griffith-Joyner",
+    "choices":["Marion Jones",    
+     "Shelly-Ann Fraser-Pryce",
+     "Florence Griffith-Joyner",
+     "Carmelita Jeter"]
+  },
+  {
+    "questiontext":"U.S Baseball star, Babe Ruth played for the Boston Red Sox, New York Yankees and which other baseball team?",
+    "answertext":"Boston Braves",
+    "choices":["Boston Braves",    
+     "Los Angeles Dodgers",
+     "Philadelphia Phillies",
+     "Cincinnati Reds"]
+  },
+  {
+    "questiontext":"Which nation won Gold in women’s hockey at the 2012 London Olympics?",
+    "answertext":"Netherlands",
+    "choices":["Netherlands",    
+     "Great Britain",
+     "New Zealand",
+     "U.S.A"]
+  },
+  {
+    "questiontext":"Which golfer won the 2013 Masters Tournament in Augusta, Georgia?",
+    "answertext":"Adam Scott",
+    "choices":["Rory McIlroy",    
+     "Phil Mickelson",
+     "Adam Scott",
+     "Tiger Woods"]
+  },
+  {
+    "questiontext":"Which 2 male tennis players have the most Wimbledon singles titles, seven each?",
+    "answertext":"Roger Federer and Pete Sampras",
+    "choices":["Roger Federer and Andre Agassi",    
+     "Roger Federer and Raphael Nadal",
+     "Pete Sampras and Andre Agassi",
+     "Roger Federer and Pete Sampras"]
+  },
+  {
+    "questiontext":"Retired Australian thoroughbred racehorse, Black Caviar, was undefeated in how many races?",
+    "answertext":"25",
+    "choices":["23",    
+     "24",
+     "25",
+     "26"]
+  },
+  {
+    "questiontext":"Which English Premier League football club supporters traditionally sing the song ‘You'll Never Walk Alone’ before commencement of the match?",
+    "answertext":"Liverpool FC",
+    "choices":["Chelsea FC",    
+     "Manchester United FC",
+     "Liverpool FC",
+     "Leeds United FC"]
+  }]   
+}

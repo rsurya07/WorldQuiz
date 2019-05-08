@@ -1,0 +1,84 @@
+{
+  "numOfQs": 10,
+  "title": "General Knowledge Quiz",
+  "quizitems": [{
+    "questiontext":"What year did Albert Einstein die?",
+    "answertext":"1955",
+    "choices":["1954",    
+     "1949",
+     "1960",
+     "1955"]
+  },
+  {
+    "questiontext":"Which is the largest planet in the solar system?",
+    "answertext":"Jupiter",
+    "choices":["Jupiter",    
+     "Neptune",
+     "Earth",
+     "Mars"]
+  },
+  {
+    "questiontext":"How many Presidents have there been of the USA?",
+    "answertext":"45",
+    "choices":["36",    
+     "29",
+     "46",
+     "45"]
+  },
+  {
+    "questiontext":"What colour is Cerulean?",
+    "answertext":"Blue",
+    "choices":["Red",    
+     "Blue",
+     "Yellow",
+     "Green"]
+  },
+  {
+    "questiontext":"What are a group of Dolphins called?",
+    "answertext":"Pod",
+    "choices":["School",    
+     "Herd",
+     "Pod",
+     "Pool"]
+  },
+  {
+    "questiontext":"Who invented Penicillin?",
+    "answertext":"Alexander Flemming",
+    "choices":["Thomas Edison",    
+     "Alexander Flemming",
+     "Marie Curie",
+     "George Orwell"]
+  },
+  {
+    "questiontext":"What date was President John F Kennedy assassinated?",
+    "answertext":"November 22 1963",
+    "choices":["November 22 1962",    
+     "November 22 1963",
+     "October 29 1964",
+     "November 24 1962"]
+  },
+  {
+    "questiontext":"How many men have walked on the moon?",
+    "answertext":"12",
+    "choices":["10",    
+     "5",
+     "12",
+     "9"]
+  },
+  {
+    "questiontext":"Who has won the most Academy Awards?",
+    "answertext":"Walt Disney",
+    "choices":["James Cameron",    
+     "Walt Disney",
+     "Katherine Hepburn",
+     "Steven Spielberg"]
+  },
+  {
+    "questiontext":"What is the currency of Brazil?",
+    "answertext":"Real",
+    "choices":["Dollar",    
+     "The Bhat",
+     "Real",
+     "Krona"]
+  }]   
+}

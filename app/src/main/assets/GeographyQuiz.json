@@ -1,0 +1,94 @@
+{
+  "numOfQs": 10,
+  "title": "Geography Quiz",
+  "quizitems": [
+  {
+    "questiontext": "What is the body of water that borders Greece, Turkey and Southern Italy?",
+    "answertext": "Aegean Sea",
+    "choices":["Red Sea",
+    "Mediterranean Sea",
+    "Aegean Sea",
+    "Black Sea"]
+  },
+  {
+    "questiontext":"Which European country was reunified in 1990?",
+    "answertext": "Germany",
+    "choices":["Austria",
+    "Russia",
+    "Switzerland",
+    "Germany"
+    ]
+  },
+  {
+    "questiontext":"Which Desert dominates a large area of Northern Africa?",
+    "answertext": "Sahara",
+    "choices":["Kalahari",
+    "Sahara",
+    "Gobi",
+    "Atacama"  
+    ]
+  },
+  {
+    "questiontext":"What is the formal language of Libya?",
+    "answertext": "Arabic",
+    "choices":["English",
+    "Spanish",
+    "Dutch",
+    "Arabic"
+    ]
+  },
+  {
+    "questiontext":"The currents of which Ocean create the El Nino effect?",
+    "answertext":"Pacific",
+    "choices":["Pacific",
+    "Indian",
+    "Atlantic",
+    "Arctic"  
+    ]
+  },
+  {
+    "questiontext":"In which Canadian province is Montreal located?",
+    "answertext":"Quebec",
+    "choices":[ "Vancouver",
+    "Ontario",
+    "Quebec",
+    "Nova Scotia"
+    ]
+  },
+  {
+    "questiontext":"What is the capital of South Korea?",
+    "answertext":"Seoul",
+    "choices":["Tokyo",
+    "Beijing",
+    "Seoul",
+    "Phnom Penh"
+    ]
+  },
+  {
+    "questiontext":"How many states starting with the letter A in the USA?",
+    "answertext":"4",
+    "choices":["3",    
+     "4",
+     "5",
+     "7"
+    ]
+  },
+  {
+    "questiontext":"How many countries in South America",
+    "answertext":"15",
+    "choices":["20",    
+     "14",
+     "15",
+     "12"
+    ]
+  },
+  {
+    "questiontext":"What is the currency of Sweden?",
+    "answertext":"Krona",
+    "choices":["Euro",    
+     "Krona",
+     "Franc",
+     "Pound"
+    ]
+  }]
+}

@@ -1,0 +1,84 @@
+{
+  "numOfQs": 10,
+  "title": "History Quiz",
+  "quizitems": [{
+    "questiontext":"Which country did Germany invade on the 1st of September 1939?",
+    "answertext":"Poland",
+    "choices":["France",    
+     "Czechoslovakia",
+     "Poland",
+     "Finland"]
+  },
+  {
+    "questiontext":"What was the first country to give women the vote in 1893?",
+    "answertext":"New Zealand",
+    "choices":["America",    
+     "Australia",
+     "New Zealand",
+     "Iceland"]
+  },
+  {
+    "questiontext":"What is the oldest known story in the world?",
+    "answertext":"The Epic of Gilgamesh",
+    "choices":["The Bible",    
+     "The Histories",
+     "The Epic of Gilgamesh",
+     "The Odyssey"]
+  },
+  {
+    "questiontext":"Which of these was one of the seven ancient wonders of the world?",
+    "answertext":"Lighthouse of Alexandria",
+    "choices":["Great Wall of China",    
+     "Macchu Picchu",
+     "Lighthouse of Alexandria",
+     "Taj Mahal"]
+  },
+  {
+    "questiontext":"In 1066 at the Battle of Hastings, King Harold was defeated by:",
+    "answertext":"William",
+    "choices":["Harald",    
+     "William",
+     "Tostig",
+     "Ragnar"]
+  },
+  {
+    "questiontext":"Sliced bread was invented in:",
+    "answertext":"America in 1928",
+    "choices":["America in 1928",    
+     "France in 1789",
+     "Australia in 1897",
+     "Scotland in 1902"]
+  },
+  {
+    "questiontext":"What year did the Berlin Wall fall?",
+    "answertext":"1989",
+    "choices":["1988",    
+     "1994",
+     "1991",
+     "1989"]
+  },
+  {
+    "questiontext":"Who was Garibaldi?",
+    "answertext":"A famous Italian soldier",
+    "choices":["A famous Italian painter",    
+     "A famous Italian soldier",
+     "A famous Italian chef",
+     "A famous Italian monk"]
+  },
+  {
+    "questiontext":"In which country was the French Revolution of 1789?",
+    "answertext":"France",
+    "choices":["Mexico",    
+     "Germany",
+     "Italy",
+     "France"]
+  },
+  {
+    "questiontext":"Who was said to be so beautiful that her face launched a thousand ships?",
+    "answertext":"Helen",
+    "choices":["Cleopatra",    
+     "Helen",
+     "Nefertiti",
+     "Salome"]
+  }]   
+}
